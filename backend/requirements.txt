@@ -1,0 +1,6 @@
+flask
+opencv-python
+mediapipe
+deepface
+tensorflow
+retina-face
