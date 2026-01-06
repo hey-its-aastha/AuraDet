@@ -1,21 +1,21 @@
-# 🌈 AuraDet  
+# AuraDet  
 ### Facial Emotion Detection Web Application
 
 AuraDet is a **real-time facial emotion detection web application** that uses **computer vision** and **deep learning** to identify human emotions from a live webcam feed and display them on a web interface.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- 🎥 Live webcam-based emotion detection  
-- 👥 Multi-face support  
-- 🌐 Real-time web interface using Flask  
-- ⚡ Optimized for smooth performance  
-- 🧠 Uses pre-trained deep learning models  
+-  Live webcam-based emotion detection  
+-  Multi-face support  
+-  Real-time web interface using Flask  
+-  Optimized for smooth performance  
+-  Uses pre-trained deep learning models  
 
 ---
 
-## 🧠 Working Overview
+## Working Overview
 
 1. Webcam captures live video  
 2. Faces are detected using **OpenCV DNN**  
@@ -24,7 +24,7 @@ AuraDet is a **real-time facial emotion detection web application** that uses **
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python  
 - Flask  
