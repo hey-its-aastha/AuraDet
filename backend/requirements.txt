@@ -1,6 +1,7 @@
 flask
-opencv-python
-mediapipe
-deepface
+gunicorn
+opencv-python-headless
+numpy
 tensorflow
-retina-face
+keras
+deepface
